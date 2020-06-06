@@ -35,7 +35,7 @@ fun isMatchOptions(options:DingDongOptionsObject? = null, message: Message):Bool
     return false
 }
 
-class WecahtyPlugins {
+class WechatyPlugins {
 
     companion object {
         @JvmStatic
